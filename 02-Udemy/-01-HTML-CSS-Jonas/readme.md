@@ -12,7 +12,7 @@
 ## Projects
 ### Omnifood
 - [Project-code](./Projects/Omnifood) <br>
-- [Live Demo](https://omnifood.dev/)
+- [Live Demo](https://omnifood-malaz.netlify.app/)
 ---
 ## Code
 - [Code](Code)
