@@ -30,7 +30,7 @@
     - [x] ` Done` ` 1h 45m 30s` - 05 - [Programming Foundations: Algorithms](01-Linkedin-Learning/-05-Programming-Foundations-Algorithms/)
     - [x] ` Done` ` 1h 44m 23s` - 06 - [Programming Foundations: Design Patterns](01-Linkedin-Learning/-06-Programming-Foundations-Design-Patterns/)
     - [x] ` Done` ` 1h 25m 15s` - 07 - [Programming Foundations: Databases](01-Linkedin-Learning/-07-Programming-Foundations-Databases/)
-    - [*] ` Done` ` 1h 14m 28s` - 08 - [Programming Foundations: APIs and Web Services](01-Linkedin-Learning/-08-Programming-Foundations-APIs-and-Web-Services/)
+    - [x] ` Done` ` 1h 14m 28s` - 08 - [Programming Foundations: APIs and Web Services](01-Linkedin-Learning/-08-Programming-Foundations-APIs-and-Web-Services/)
     - [x] ` Done` ` 53m 51s` - 09 - [Programming Foundations: Software Testing/QA](01-Linkedin-Learning/-09-Programming-Foundations-Software-TestingQA/)
     - [x] ` Done` ` 2h 11m ` - 10 - [Learning GitHub](01-Linkedin-Learning/-10-Learning-GitHub)
     - [x] ` Done` ` 37h 30m ` - 11 - [Build Responsive Real-World Websites with HTML and CSS](02-Udemy/-01-HTML-CSS-Jonas)
@@ -48,7 +48,7 @@
 ![0%](https://progress-bar.dev/0/?title=Done)
 <br />
 ## JavaScript - Select one of these 2 courses to complete
-- [ ]  `in progress` `29h 30m` - 13 - [The Modern JavaScript Bootcamp](./02-Udemy/-02-Js-Andrew)
+- [x]  `Done` `29h 30m` - 13 - [The Modern JavaScript Bootcamp](./02-Udemy/-02-Js-Andrew)
 - [ ]  `in progress` `69h` - 13 - [The Complete JavaScript Course 2022: From Zero to Expert!](./02-Udemy/-02-Js-Jonas)
 ## ReactJs - Select one of these 2 courses to complete
 - [ ]  `in progress` `48h` - 14 - [React - The Complete Guide (incl Hooks, React Router, Redux)](./02-Udemy/-03-Reactjs-Maximilian)
